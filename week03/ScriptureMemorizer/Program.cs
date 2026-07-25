@@ -14,7 +14,7 @@ class Program
         {
             Reference defRef = new Reference("John", 3, 16);
             string defText = "For God so loved the world that he gave his only begotten Son";
-            scriptures.Add(new Scripture(defRef, defText));quit
+            scriptures.Add(new Scripture(defRef, defText));
         }
 
         Random rand = new Random();
