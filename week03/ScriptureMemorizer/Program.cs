@@ -57,7 +57,7 @@ class Program
         {
             Console.Clear();
             Console.WriteLine(current.GetDisplayText());
-            Console.WriteLine("\nAll words hidden! Program ending.");
+            Console.WriteLine("\nAll words hidden!");
         }
     }
 
